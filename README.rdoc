@@ -1,4 +1,4 @@
-DoggyNames
+DoggyNames (A Simpleform Application Created with Ruby on Rails)
 
 Gathering Dog Names Socially To Help People Choose And Share Names.
 
