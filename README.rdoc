@@ -1,16 +1,5 @@
 DoggyNames (A Simpleform Application Created with Ruby on Rails)
 
-Gathering Dog Names Socially To Help People Choose And Share Names.
+A Dog Name Database intended for helping people choose names for their new dog/s.
 
-This Simple Application was created to be presented to Doggyloot as an example of my capabilities for the Web Development Internship that they are offering.
-
-The Application is a Ruby on Rails project that I have created to properly complete the application for the Web Development Internship.
-
-This Application's goals are to have significant functionality and have automated tests written with RSpec.
-
-The Application was created by the following Author:
-
-Dominic Filipek Chicago, IL Student Columbia College Chicago
-
-Author Email:
-dominicfvr@gmail.com
+This Application's goals are to have basic functionality and have automated tests written with RSpec.
